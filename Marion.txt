@@ -1,0 +1,5 @@
+dbProcuracao
+Outorgante	A	40
+DtAfast		D
+DtRetor		D
+Pais		A	20

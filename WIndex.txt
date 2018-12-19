@@ -1,0 +1,40 @@
+Figura
+
+Descrição da Dominius:
+Dominius Informática Ltda.
+Av. Presidente Vargas, nº 30 sala 2
+Centro - Campo Bom - RS - 93700-000
+(051) 598-5877 e (051) 598-5799
+dominius@nh.conex.com.br
+
+Descriçao do Programa
+Sistema para cálculo de tempo de serviço com cadastro de funcionários
+
+Tópicos
+
+Botão + Cadastro de Funcionários
+...abre a janela de cadastro de funcionários.
+
+Botão + Consulta de Funcionários
+...abre a janela de consulta de funcionários cadastrados.
+
+Botão + Relatório de Funcionários
+...abre a janela de relatório de funcionários.
+
+Botão + Movimentos de Empresas
+...abre a janela de movimentos de empresas.
+
+Botão + Consulta de Movimentos
+...abre a janela de consultas de movimentos.
+
+Botão + Relatório de Movimentos
+...abre a janela de relatório de movimentos.
+
+Botão + Cópia de Segurança
+...abre a janela de "Backup" (Cópia de segurança).
+
+Botão + Sobre
+...abre a janela de registro e licença do sistema.
+
+Botão + Sair
+...fecha a janela principal saindo do sistema.

@@ -1,0 +1,62 @@
+Tópicos
+
+Lookup + Nome 
+...através deste campo você escolhe um funcionário, já cadastrado, pelo
+nome, pode-se ainda digitar as primeiras letras que haverá uma procura
+rápida ao nome mais próximo.
+
+Speed para cadastrar funcionários
+...use este botão para abrir a janela de cadastro de funcionários para
+a inserção de um novo funcionário.
+
+Botão + Navegador
+...use estes botões para navegar entre os funcionários já cadastrados, sendo
+que o primeiro botão posiciona-se no primeiro registro, o segundo no registro
+anterior, o terceiro botão no próximo registro e o último botão faz com que 
+nos movamos para o último registro.
+
+Botão + Fechar
+...apenas fecha a janela em que você encontra-se no momento, não será possível
+fechar se algum botão de Inserir ou Alterar tiver sido clicado.
+
+Campos Preenchimento
+
+Nome da Empresa : ...razão social da empresa empregadora.
+
+Função : ...função ocupada pelo funcionário na empresa.
+
+Especial : ...se a função ocupada pelo funcionário era especial ou não.
+
+Data de Admissão : ...data do ingresso na empresa.
+
+Data de Demissão : ...data do desligamento da empresa.
+
+Comum AA/MM/DD : ...se não for função especial, aparecerá neste campo
+o tempo de serviço em Ano(s), Mês(es) e Dia(s).
+
+Especial AA/MM/DD : ...se for função especial, aparecerá neste campo
+o tempo de serviço em Ano(s), Mês(es) e Dia(s).
+
+
+Botão + Calcular
+...executa o cálculo do período colocado nos campos de data de admissão
+e demissão.
+
+Botão + Confirmar
+...confirma os dados digitados e calculados enviando para a relação de
+dados na grade localizada abaixo dos dados, acumulando para o 
+funcionário.
+
+Botão + Cancelar
+...cancela todos os dados informados até o momento, uma vez não 
+confirmados.
+
+Botão + Excluir
+...exclui o movimento, na grade, que estiver selecionado não aparecendo
+mais como dados para o funcionário.
+
+Grid
+...mostra todos os movimentos já feitos até o momento para o 
+funcionário selecionado.
+
+

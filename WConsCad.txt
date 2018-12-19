@@ -1,0 +1,24 @@
+Tópicos
+
+Lookup Código
+...se for sabido o código do funcionário a consulta poderá ser feita
+através deste campo mediante a digitação do código ou escolha do 
+mesmo pela lista de códigos existentes.
+
+Lookup Nome
+...através deste campo você escolhe um funcionário, já cadastrado, pelo
+nome, pode-se ainda digitar as primeiras letras que haverá uma procura
+rápida ao nome mais próximo.
+
+Grid + Tópico de Detalhes dos Funcionários e Movimentos (Botão + Movimentos; Botão + Fechar)
+...dois cliques no funcionário e abrirá uma janela com todos os dados 
+do funcionário selecionado, nesta janela poderá ainda ser consultado
+todos os movimentos referentes a este funcionário através do botão
+Movimentos.
+
+
+Botão + Fechar
+...apenas fecha a janela em que você encontra-se no momento.
+
+
+

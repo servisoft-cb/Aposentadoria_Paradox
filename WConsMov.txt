@@ -1,0 +1,19 @@
+Lookup + Código 
+...se for sabido o código do funcionário a consulta poderá ser feita
+através deste campo mediante a digitação do código ou escolha do 
+mesmo pela lista de códigos existentes.
+
+Lookup + Nome 
+...através deste campo você escolhe um funcionário, já cadastrado, pelo
+nome, pode-se ainda digitar as primeiras letras que haverá uma procura
+rápida ao nome mais próximo.
+
+Botão + Fechar
+...apenas fecha a janela em que você encontra-se no momento.
+
+Grid (Botão + Fechar; Campos do Detalhe da Consulta)
+...nesta grade aparecerão o código do funcionário e o nome com 
+a empresa do movimento, clicando duas vezes rápidas e consecutivas
+sobre o movimento você terá os detalhes do movimento selecionado.
+ - Botão + Fechar
+...apenas fecha a janela em que você encontra-se no momento.

@@ -1,0 +1,25 @@
+Relatório
+...esta opção permite que você selecione entre imprimir ou visualizar
+o relatório, se você optar em visualizar poderá imprimí-lo através 
+da visualização.
+
+Lookups de Código
+...através deste campo você escolhe o funcionário, já previamente 
+cadastrado, pelo código, para imprimir seus movimentos, pode-se ainda 
+digitar o código para que haja uma procura mais rápida ao funcionário
+mais próximo.
+
+Lookups de Nome
+...através deste campo você escolhe o funcionário, já previamente 
+cadastrado, pelo nome, para imprimir seus movimentos, pode-se ainda 
+digitar as primeiras letras que haverá uma procura rápida ao nome 
+mais próximo.
+
+Botão + Imprimir
+...envia a seleção para impressão ou visualização.
+
+Botão + Cancelar
+...cancela a seleção feita.
+
+Botão + Fechar
+...apenas fecha a janela em que você encontra-se no momento.

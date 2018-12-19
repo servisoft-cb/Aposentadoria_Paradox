@@ -1,0 +1,68 @@
+Tópicos
+
+Lookup + Nome
+...através deste campo você escolhe um funcionário, já cadastrado, pelo
+nome, pode-se ainda digitar as primeiras letras que haverá uma procura
+rápida ao nome mais próximo.
+
+Botão + Inserir
+...clicando neste botão você poderá digitar um novo funcionário no seu 
+cadastro, se já houver um funcionário com o mesmo CPF o sistema questionará
+quanto a continuação da digitação.
+
+Botão + Alterar
+...libera o funcionário atual para uma possível alteração, adição ou exclusão
+de alguma informação que se faça necessária.
+
+Botão + Confirmar
+...uma vez inserido ou alterado algum funcionário deve-se confirmar para que
+estas informações fiquem registrados em seu computador.
+
+Botão + Cancelar
+...o cancelamento desfaz alterações que não tenham sido salvas ou um registro 
+novo que se tenha inserido sem ter sido confirmado.
+
+Botão + Excluir
+...esta opção deve ser usada apenas se for feita logo após a inserção de algum
+funcionário, esta opção apaga completamente com os dados do funcionário, não 
+havendo mais possibilidades de recuperação, e se tiver sido feito algum(ns) 
+lançamento(s) com este funcionário este(s) lançamento(s) se perderá(ão) também.
+
+Botão + Fechar
+...apenas fecha a janela em que você encontra-se no momento, não será possível
+fechar se algum botão de Inserir ou Alterar tiver sido clicado.
+
+Botão + Navegador
+...use estes botões para navegar entre os funcionários já cadastrados, sendo
+que o primeiro botão posiciona-se no primeiro registro, o segundo no registro
+anterior, o terceiro botão no próximo registro e o último botão faz com que 
+nos movamos para o último registro.
+
+Campos de Preenchimento
+
+Código : ...número que representa o funcionário internamente no sistema, sem
+necessidade do usuário gravar este número para outros fins.
+
+Nome : ...nome completo do funcionário.
+
+Sexo : ...M se masculino e F se feminino
+
+Data de Nascimento : ...data de nascimento no formato DD/MM/AAAA
+
+Cart.de Trab.nº : ...número da carteira de trabalho e previdência social.
+Série : ...número de série da carteira de trabalho e previdência social.
+
+PIS : ...número de cadastro no PIS.
+
+CPF : ...número do cadastro de pessoas físicas.
+
+RG : ...número da carteira de identidade.
+
+CICI : ...número do cadastro de inscrição do contribuinte individual.
+
+Telefone : ...número do telefone para contato.
+
+Endereço : ...endereço completo e atualizado da residência do funcionário.
+
+Correspondência : ...endereço completo do endereço de correspondência do 
+funcionário, se diferente do endereço acima.

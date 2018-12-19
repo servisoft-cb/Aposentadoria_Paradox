@@ -1,0 +1,42 @@
+Descrição de como usar o programa.
+
+Primeiramente muito obrigado por adquirir um produto DOMINIUS INFORMÁTICA
+este sistema foi desenvolvido para atender a todas as suas necessidades
+no que diz respeito a - Cálculo de Tempo de Serviço - no caso de 
+dúvidas você poderá entrar em contato conosco pelo e-mail dominius@nh
+.conex.com.br, sugerimos que registre o seu sistema agora mesmo,
+em caso de dúvidas seu número de registro será solicitado para que 
+possamos lhe atender imediatamente.
+
+Primeiros passos...
+
+...tomamos como primeiro passo a ser seguido o cadastramento de todos
+os funcionários que já se fazem necessidade de serem calculados, tendo
+feito isso poder-se-á lançar os movimentos respectivos sem a necessidade
+de interrupção para o cadastro do funcionário, posteriormente, a medida
+que surgirem mais funcionários, estes poderão ser lançados na medida 
+que se fizerem necessário.
+
+...como segundo passo teríamos os lançamentos dos movimentos de cada
+funcionário, você não terá necessidade de lançar todos os movimentos
+que dizem a respeito de um funcionário de uma vez só, basta para isso
+selecionar o funcionário desejado para que possa voltar a incluir ou 
+excluir algum movimento do mesmo.
+
+...como terceiro passo e tão importante quanto os outros, é a cópia
+de segurança, você poderá reinstalar o programa se por acaso vier a 
+perder o sistema devido a algum problema técnico ou de equipamento, 
+mas as informações contidas nele terão que ser digitadas novamente, 
+para que isso não ocorra deve ser feito uma cópia de segurança sempre 
+que o expediente for encerrado, é algo rápido e de extrema importância,
+lembre-se é mais vantajoso perder 2 minutos fazendo a cópia que um mês
+inteiro redigitando tudo de novo e conferindo se nada foi feito de 
+errado.
+
+Lembrete : Nunca exclua um funcionário sem ter absoluta certeza que 
+não precisa mais das informações atreladas ao mesmo, fazendo a exclusão
+todos os dados relativos ao funcionário se perderam com ele.
+
+Um bom trabalho e na dúvida entre em contato conosco, temos os mais
+variados sistemas para lhe antender, fazendo-os sobre medida se isto
+for necessário ou sistemas padrões com possibilidades de alterações.

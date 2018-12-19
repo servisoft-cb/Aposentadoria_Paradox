@@ -1,0 +1,25 @@
+Botão + Fechar
+...apenas fecha a janela em que você encontra-se no momento.
+
+Botão + Registrar (Campos de Preenchimento; Botão + Confirmar; Botão + Cancelar; Botão + Fechar)
+...ao clicar neste botão será solicitado o nome para quem estará
+sendo registrado e o código de registro fornecido pela 
+DOMINIUS INFORMÁTICA, conforme termo de licença de uso, você poderá 
+usar o sistema por um tempo limitado sem fazer o registro, depois 
+disso terá que fazer o seu registro informando através de telefone,
+pelo correio ou via E-Mail o número que consta em "Registro Nº:"
+juntamente com todos os seus dados* para que possamos lhe encaminhar a
+liberação do mesmo, uma vez registrado não mais lhe será pedido que o
+faça novamente, exceto em casos de reinstalações, neste caso a DOMINIUS 
+INFORMÁTICA deve ser informada previamente para guiá-lo durante o 
+processo.
+
+* consideramos os dados como:
+Nome/Razão Social, Endereço completo, Telefone, CGC/CPF, Insc.Est ou
+Municipal no caso de haver, número da nota fiscal de compra, data da
+compra e nome do emitente da nota fiscal.
+
+Obs.: É imprescindível a informação de todos os dados acima.
+
+
+

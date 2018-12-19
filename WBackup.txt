@@ -1,0 +1,22 @@
+Inserir Disco
+...você deve selecionar a letra para onde estará direcionando o arquivo
+de backup e colocar um disco, se necessário, nesta unidade, procedendo
+da mesma maneira para a recuperação dos dados já compactados que devam
+ser trazidos de volta.
+
+
+Botão + Criar BackUp
+...uma vez inserido o disco no drive desejado clique neste botão para 
+iniciar a compactação de todos os dados do sistema.
+
+Botão + Restaurar BackUp
+...usado para recuperar os dados da última cópia de segurança efetuada,
+esta operação somente deve ser feita se todos os dados do sistema 
+realmente foram perdidas, esta operaçao sobrepõe todos e quaisquer
+dados que houverem até o momento.
+
+Botão + Fechar
+...apenas fecha a janela em que você encontra-se no momento.
+
+
+

@@ -1,0 +1,33 @@
+Tópicos
+
+Ordem de Impressão
+...em ordem de impressão você escolhe de qual maneira gostaria que 
+fosse impresso seu relatório, em seqüência alfabética ou numérica.
+
+Relatório
+...esta opção permite que você selecione entre imprimir ou visualizar
+o relatório, se você optar em visualizar poderá imprimí-lo através 
+da visualização.
+
+Lookups de Códigos
+...através destes campos você escolhe um funcionário inicial e um 
+final, já previamente cadastrados, pelo código, para limitar seu 
+relatório entre os funcionários selecionados, pode-se ainda 
+digitar os códigos para que haja uma procura mais rápida ao funcionário
+mais próximo.
+
+Lookup de Nomes
+...através destes campos você escolhe um funcionário inicial e um 
+final, já previamente cadastrados, pelo nome, para limitar seu 
+relatório entre os funcionários selecionados, pode-se ainda 
+digitar as primeiras letras para que haja uma procura mais rápida ao 
+nome mais próximo.
+
+Botão + Imprimir
+...envia a seleção para impressão ou visualização.
+
+Botão + Cancelar
+...cancela a seleção feita.
+
+Botão + Fechar
+...apenas fecha a janela em que você encontra-se no momento.
